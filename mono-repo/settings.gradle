@@ -1,0 +1,4 @@
+rootProject.name = 'mono-repo'
+
+include 'time-service'
+include 'day-service'
