@@ -5,7 +5,7 @@ A Gradle mono-repo containing two independent Spring Boot microservices.
 ## Structure
 
 ```
-mono-repo/
+/
 ├── build.gradle          # Shared subproject configuration
 ├── settings.gradle       # Declares both subprojects
 ├── time-service/         # Returns the current time  (port 8080)
